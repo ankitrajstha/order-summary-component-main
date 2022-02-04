@@ -91,6 +91,7 @@ p{
 }
 .buttons .cancel a{
     color: hsl(224, 23%, 55%);
+    text-decoration: none
 }
 .buttons .cancel a:hover{
     text-decoration: none;
